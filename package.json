@@ -1,0 +1,16 @@
+{
+  "name": "document-tree",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "watch": "tsc --watch"
+  },
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/uuid": "^3.4.4",
+    "typescript": "^3.4.1"
+  }
+}
